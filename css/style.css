@@ -5,7 +5,7 @@ html, body{
 
 #paralax-cont{
     height: 700px;
-    background-image: url('../img/img1.jpg');
+    background-image: url('../img/img2.jpg');
     flex-direction: column;
     justify-content: center;
 }
